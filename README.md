@@ -1,2 +1,4 @@
 # Praktikum
-Praktikum pertemuan 2
+Praktikum Teknologi Cloud
+-github pages
+-github kolaborasi
